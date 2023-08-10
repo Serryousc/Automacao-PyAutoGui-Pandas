@@ -2,7 +2,7 @@ import pyautogui
 import pandas as pd 
 from time import sleep 
 
-arqui = pd.read_csv("AdNoturnoGMPJulho.csv",sep=";", encoding='latin-1') # Horas Extras
+arqui = pd.read_csv("AdNoturno.csv",sep=";", encoding='latin-1') # Horas Extras
 matriculas = arqui.drop(columns=['NOME','QUANTIDADE']).T #Lembra de Add, 'VALOR' caso seja necessario 
 
 
