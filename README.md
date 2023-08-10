@@ -8,3 +8,5 @@ Normalizando as informações recebidas em um arquivo CSV, e executando esse scr
 O Processo manual levava em torno de 3 a 4 horas nas listas maiores (com 150 ~ 200 servidores), coisa que caiu para 15~20 minutos.
 
 Como as informações lançadas são confidenciais até o recebimento, colocarei uma lista ficticia para exemplificar. 
+
+Tambem, fiz uma tela que se assemelha ao que temos no sistema de folha de pagamento, para se ter uma ideia de quais informações são preenchiadas. 
