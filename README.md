@@ -1,4 +1,4 @@
-<h2>**EN** Payroll Benefits Automation Screen</h2>
+<h2>EN - Payroll Benefits Automation Screen</h2>
 
 The goal of this project is to reduce the time required to input benefits into the payroll system of the city of Palmas. Prior to using this code, this specific task took several days to complete due to manual entries.
 
@@ -13,7 +13,7 @@ Additionally, I have created a screen that resembles our payroll system to provi
 Libraries Used: mouseinfo, pillow, pandas, pyautogui, pyarrow.
 
 
-<h2>**PT** Automação de Lançamento de Benefícios para Folha de Pagamento</h2>
+<h2>PT - Automação de Lançamento de Benefícios para Folha de Pagamento</h2>
 
 Este projeto visa otimizar o processo de lançamento de benefícios no sistema de folha de pagamento do município de Palmas. Anteriormente, essa tarefa manual demandava vários dias para ser concluída devido ao grande volume de lançamentos manuais.
 
