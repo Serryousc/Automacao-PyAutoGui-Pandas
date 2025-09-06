@@ -1,0 +1,5 @@
+mouseinfo
+pillow
+pandas
+pyautogui
+pyarrow
