@@ -19,7 +19,7 @@ Este projeto visa otimizar o processo de lançamento de benefícios no sistema d
 
 Através da normalização de informações provenientes de arquivos CSV e da execução de um script dedicado, conseguimos reduzir significativamente o tempo necessário para processar cada lista de benefícios.
 
-Anteriormente, o processo manual consumia de 3 a 4 horas para listas maiores (com 150 a 200 servidores), um tempo que foi drasticamente reduzido para apenas 15 a 20 minutos.
+Anteriormente, o processo manual consumia de 3 a 4 horas para listas maiores (com 150 a 200 colaboradores), um tempo que foi drasticamente reduzido para apenas 15 a 20 minutos.
 
 Para garantir a confidencialidade das informações até o recebimento, utilizei uma lista fictícia como exemplo.
 
@@ -27,6 +27,12 @@ Além disso, desenvolvi uma interface que replica o ambiente do sistema de folha
 
 Bibliotecas Utilizadas: mouseinfo, pillow, pandas, pyautogui, pyarrow.
 
-how to use mouseinfo?  
-   1st line --> import mouseinfo
-   2nd line --> mouseinfo.MouseInfoWindow()
+
+Como usar o mouseinfo? how to use mouseinfo?  
+   1º) import mouseinfo
+   2º) mouseinfo.MouseInfoWindow()
+
+
+
+
+
